@@ -16,23 +16,12 @@ Este repositório foi criado com a intenção de ensinar Git e GitHub de forma s
 
 ---
 
-## 📂 Estrutura do Repositório
-
-📁 git-github-intro/
-├── 📁 slides/              # Apresentações explicativas em PDF ou PPTX
-├── 📁 arquivos-de-teste/   # Arquivos para brincar e testar comandos
-├── 📁 cheatsheets/         # Resumos e comandos essenciais para consulta rápida
-├── 📁 desafios/            # Pequenos desafios e exercícios práticos
-└── README.md               # Este arquivo lindo que você está lendo :)
-
----
-
 ## 🚀 Comece Agora
 
 1. Clone o repositório:
-
-git clone https://github.com/seu-usuario/git-github-intro.git
-
+```bash
+$ git clone https://github.com/seu-usuario/git-github-intro.git
+```
 2. Explore os slides e os arquivos:
 
 Abra a pasta slides/ ou cheatsheets/ e comece a estudar!
