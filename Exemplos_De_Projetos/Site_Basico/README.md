@@ -9,5 +9,5 @@ Este é um projeto fictício usado para treinar comandos do Git e GitHub, como:
 - Enviar para um repositório remoto
 - Usar stash, rebase e cherry-pick
 
-Siga os desafios descritos na pasta `../exercicios` ou use o script `../scripts/executa_exercicios.sh`.
+Siga os desafios descritos na pasta `../exercicios
 
