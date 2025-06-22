@@ -20,7 +20,7 @@ Este repositório foi criado para ensinar **Git** e **GitHub** de forma **simple
 
 1. **Clone o repositório**:  
    ```bash
-   git clone https://github.com/seu-usuario/git-github-intro.git
+   git clone https://github.com/LORENZOCIRCELLI/Github-Masterclass.git
    ```
 2. **Explore os slides e arquivos**:  
    Abra as pastas `slides/` ou `cheatsheets/` e comece a estudar!
